@@ -1,0 +1,59 @@
+
+.first
+{
+  background-color:#73A9AD;
+  border: 10px solid black;
+  padding:20px;
+  margin-width:0 0;
+  height:200px;
+  width:200px;
+}
+
+.second
+{
+  background-color:yellow;
+  border:solid black;
+  border-width:20px 10px;
+  /* padding: */
+  margin-left:260px;
+  height:200px;
+  width:200px;
+}
+
+.third
+{
+  background-color:red;
+  border:10px solid black;
+  /* padding: */
+  margin-left:40px;
+  height:200px;
+  width:200px;
+}
+
+
+
+
+
+
+
+/* html
+{
+  background-color: #F5F0BB;
+}
+
+.temp{
+  text-align:center;
+  background-color: #B3C890;
+  color: white;
+}
+
+.font-family
+{
+  font-family: 'Architects Daughter', cursive;
+}
+
+h2{
+  text-align: center;
+  background-color:#CBB279;
+  color:white;
+} */

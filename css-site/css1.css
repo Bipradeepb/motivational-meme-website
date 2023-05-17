@@ -1,0 +1,29 @@
+html{
+  background-color: black;
+}
+
+.box1
+{
+  margin-left:25%;
+  margin-top: 5%;
+  text-align: center;
+  height:150px;
+  width:50%;
+}
+.Daenerys
+{
+  border:5px solid white;
+  margin:0;
+  padding:0;
+  width:100%;
+}
+.title{
+  width:100%;
+  font-size: 50px;
+  color: white;
+}
+
+.subtitle{
+  width:100%;
+  color: white;
+}
